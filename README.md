@@ -21,13 +21,13 @@ A purchase contract determines who must act, what must happen, and when. Amendme
 
 ### A preview of the workspace
 
-![Locke Real Estate Management — illustrative brokerage command center](assets/dashboard.png)
+![Locke Real Estate Management — four illustrative interface concepts](assets/gallery-overview.svg)
 
 *Concept interface using entirely synthetic sample information; not a live application capture.*
 
 | Transaction workspace | Evidence-based contract review |
 |:--:|:--:|
-| ![Illustrative transaction workspace](assets/transaction.png) | ![Illustrative source-grounded contract review](assets/review.png) |
+| ![Illustrative transaction workspace](assets/transaction.svg) | ![Illustrative source-grounded contract review](assets/review.svg) |
 
 **[View all four sample screens](SCREENS.md)** — including deadlines and alerts.
 
