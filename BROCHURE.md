@@ -40,7 +40,7 @@ Locke Real Estate Management is **transaction intelligence and execution infrast
 
 ## See the proposed interface
 
-![Brokerage Command Center concept](assets/dashboard.png)
+![Brokerage Command Center concept](assets/dashboard.svg)
 
 [All sample screens](SCREENS.md) · [Detailed product capabilities](CAPABILITIES.md) · [Locke Development](https://lockedevelopment.com/)
 
